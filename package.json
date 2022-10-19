@@ -1,0 +1,22 @@
+{
+  "name": "css-course-pr1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oxtopus501/css-course-pr1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oxtopus501/css-course-pr1/issues"
+  },
+  "homepage": "https://github.com/Oxtopus501/css-course-pr1#readme",
+  "devDependencies": {
+    "sass": "^1.55.0"
+  }
+}
